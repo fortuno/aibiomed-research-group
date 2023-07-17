@@ -8,7 +8,7 @@ main:
     url: people
     weight: 10
   - name: Projects
-    url: projects
+    url: project
     weight: 20  
   - name: Tools
     url: tools
