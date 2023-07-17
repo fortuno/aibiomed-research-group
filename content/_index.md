@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Artificial Intelligence, Bionformatics & Biomedicine Group (AIBioMed)** is a research group part of the Computer Engineering, Automatics and Robotics (ICAR) Department of the University of Granada (UGR).
+        The **Artificial Intelligence, Bionformatics & Biomedicine (AIBioMed) Group** is a research group part of the Computer Engineering, Automatics and Robotics (ICAR) Department of the University of Granada (UGR).
   
   - block: collection
     content:
