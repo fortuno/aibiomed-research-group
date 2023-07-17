@@ -17,25 +17,25 @@ organizations:
   - name: University of Granada
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: Principal Investigator of the group
-
 interests:
   - Artificial Intelligence
   - Bioinformatics
   - Computational Medicine
 
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#  courses:
+#     - course: PhD in Artificial Intelligence
+#       institution: Stanford University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
+
+# Short bio (displayed in user profile at end of posts)
+bio: Principal Investigator of the group
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
