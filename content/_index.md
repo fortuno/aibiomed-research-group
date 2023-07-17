@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Artificial Intelligence, Bionformatics & Biomedicine Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Artificial Intelligence, Bionformatics & Biomedicine Group (AIBioMed)** is a research group part of the Computer Engineering, Automatics and Robotics (ICAR) Department of the University of Granada (UGR).
   
   - block: collection
     content:
