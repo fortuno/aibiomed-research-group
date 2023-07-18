@@ -18,7 +18,7 @@ sections:
         country: Spain
         country_code: ES
       coordinates:
-        latitude: '37.19722222', 
+        latitude: '37.19722222'
         longitude: '-3.62388889'
       # contact_links:
       #  - icon: comments
