@@ -1,6 +1,7 @@
 ---
-title: 'PID2021-128317OB-I00: Aprendizaje Automático y Computación de Altas Prestaciones para la Integración de Bases de Datos Heterogéneas en Bioinformática. Aplicación en Medicina Precisa y Personalizada'
+title: 'Aprendizaje Automático y Computación de Altas Prestaciones para la Integración de Bases de Datos Heterogéneas en Bioinformática. Aplicación en Medicina Precisa y Personalizada (PID2021-128317OB-I00)'
 summary: Pequeño resumen
+abstract: Descripción del proyecto más detallada
 tags:
   - Bioinformatics
   - High-Performance Computing
