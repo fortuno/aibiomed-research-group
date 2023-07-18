@@ -8,7 +8,7 @@ main:
     url: people
     weight: 10
   - name: Projects
-    url: project
+    url: event
     weight: 20  
   - name: Tools
     url: tools
@@ -17,7 +17,7 @@ main:
     url: publication
     weight: 40    
   - name: Events
-    url: event
+    url: project
     weight: 50
   - name: Contact
     url: contact
