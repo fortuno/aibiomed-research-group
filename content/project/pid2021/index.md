@@ -1,11 +1,12 @@
 ---
-title: (PID2021-128317OB-I00) Aprendizaje Automático y Computación de Altas Prestaciones para la Integración de Bases de Datos Heterogéneas en Bioinformática. Aplicación en Medicina Precisa y Personalizada
+title: PID2021-128317OB-I00): Aprendizaje Automático y Computación de Altas Prestaciones para la Integración de Bases de Datos Heterogéneas en Bioinformática. Aplicación en Medicina Precisa y Personalizada
 summary: An example of using the in-built project page.
 tags:
   - Bioinformatics
   - High-Performance Computing
   - Personalized Medicine
 date: '2022-09-01T00:00:00Z'
+author: Ignacio Rojas
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
