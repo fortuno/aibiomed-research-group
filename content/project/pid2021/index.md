@@ -1,35 +1,47 @@
 ---
 title: Aprendizaje Automático y Computación de Altas Prestaciones para la Integración de Bases de Datos Heterogéneas en Bioinformática. Aplicación en Medicina Precisa y Personalizada
-summary: This project shows the deployment and research of semi-supervised deep learning models for the anomaly detection in Surveillance videos deployed on a synchronous Federated Learning architecture for which training is being distributed on many nodes.
 
-tags:
-- Bionformatics
-- Machine learning
-- High-performance computation
-- 
-date: "2020-04-27T00:00:00Z"
+event: PID2021-128317OB-I00
+event_url: ""
 
-# Optional external URL for project (replaces project detail page).
-# external_link: ""
+summary: An example event.
+abstract: ''
 
-image:
-  caption: ""
-  focal_point: Smart
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2022-01-09T00:00:00Z'
+date_end: '2017-01-09T00:00:00Z'
+all_day: false
 
-links:
-# - icon: github
-#  icon_pack: fab
-#  name: Visit
-#  url: https://github.com/Nico-Cubero/Surveillance-AnomDetection-FedLearning
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# Schedule page publish date (NOT talk date).
+# publishDate: '2017-01-01T00:00:00Z'
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
+authors: [Ignacio Rojas]
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+# image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#  slides: example
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
 ---
