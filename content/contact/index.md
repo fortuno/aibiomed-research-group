@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       email: test@ugr.es
-      phone: +34 958 248 994
+      phone: '+34 958 248 994'
       address:
-        street: Periodista Daniel Saucedo Aranda, s/n
+        street: 'Periodista Daniel Saucedo Aranda, s/n'
         city: Granada
         region: Granada
         postcode: '18071'
