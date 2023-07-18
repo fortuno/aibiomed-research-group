@@ -33,3 +33,6 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+## Summary
+This is the page for the project where a more detailed description can be included.
