@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-07-19T00:00:00Z'
 
-authors: [fortuno]
+authors: [admin]
 tags: [bioinformatics, next generation sequencing]
 
 # Is this a featured talk? (true/false)
