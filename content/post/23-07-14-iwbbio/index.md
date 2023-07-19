@@ -8,6 +8,6 @@ Our annual International Work-Conference on Bioinformatics and Biomedical Engine
 
 <!--more-->
 
-More than 100 researchers have participated in this three-days conference in both face-to-face and virtual sessions to discuss their recent discoveries and investigations in Bioinformatics and Biomedical Engineering fields. T
+More than 100 researchers have participated in this three-days conference in both face-to-face and virtual sessions to discuss their recent discoveries and investigations in Bioinformatics and Biomedical Engineering fields.
 
 The level of this IWBBIO 2023 edition, with great presented contributions and posters, as well as the participation of relevant researchers, has once again contributed to the success of this edition. 
