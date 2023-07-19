@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      email: test@ugr.es
+      email: aibiomed@ugr.es
       phone: '+34 958 248 994'
       address:
         street: 'Periodista Daniel Saucedo Aranda, s/n'
