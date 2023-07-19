@@ -8,7 +8,7 @@ tags:
   - High-Performance Computing
   - Personalized Medicine
 date: '2022-09-01T00:00:00Z'
-author: Ignacio Rojas
+author: Francisco M. Ortuño
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
