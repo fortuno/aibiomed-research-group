@@ -1,6 +1,8 @@
 ---
 title: 'Aprendizaje Automático y Computación de Altas Prestaciones para la Integración de Bases de Datos Heterogéneas en Bioinformática. Aplicación en Medicina Precisa y Personalizada (PID2021-128317OB-I00)'
-summary: 'Fecha: 01/09/2022 - 31/08/2025 Investigador Principal: Rojas-Ruiz, Ignacio and Herrera-Maldonado, Luis Javier' 
+summary: |
+	'Fecha: 01/09/2022 - 31/08/2025'
+	'Investigador Principal: Ignacio Rojas-Ruiz and Luis Javier Herrera-Maldonado' 
 tags:
   - Bioinformatics
   - High-Performance Computing
