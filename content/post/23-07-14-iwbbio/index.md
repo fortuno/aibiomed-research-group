@@ -1,6 +1,7 @@
 ---
 title: IWBBIO 2023 has been held with great success
 date: 2023-07-14
+author: fortuno
 ---
 
 Our annual International Work-Conference on Bioinformatics and Biomedical Engineering (IWBBIO), which has reached its 10th edition, has been successfully held in Carboneras, Gran Canarias (Spain). 
