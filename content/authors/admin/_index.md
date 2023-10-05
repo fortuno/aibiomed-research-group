@@ -14,8 +14,8 @@ role: Associate Professor of Computer Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Granada
-    url: ''
+  - name: Department of Computer Engineering, Automatics and Robotics (University of Granada)
+    url: 'https://icar.ugr.es'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include bioinformatics and computational genomics.
@@ -24,6 +24,8 @@ interests:
   - Bioinformatics
   - Computational Genomics
   - Next Generation Sequencing Anaysis
+  - Machine Learning
+  - Artificial Intelligence
 
 education:
   courses:
@@ -34,7 +36,7 @@ education:
       institution: University of Granada
       year: 2011
     - course: BSc in Telecommunication Engineering
-      institution: Massachusetts Institute of Technology
+      institution: University of Granada
       year: 2008
 
 # Social/Academic Networking
@@ -74,4 +76,4 @@ My research is focused on Bioinformatics and Computational Biology. I'm speciali
 
 I have participated in several Spanish research projects such as DSIPA-BIO, HPC-BIO or ADA-BIO. I have been a visiting researcher in the Computational Biology and Data Mining Group of the Max Delbruck Center for Molecular Medicine (MDC) in Berlin (Germany). During my period in the University of Chicago, I have been involved in the development and data analysis of several data commons for genomics and clinical data sharing: GDC (Genomics Data Commons), BloodPAC (Blood Profile Atlas Consortium), GenoMEL (Genomics MELanoma).
 
-I have also co-organized four editions of the International Work-Conference on Bioinformatics and Biomedical Engineering (IWBBIO) from 2013, being also Editor of the proceedings book and Guest Editor in the corresponding special issues in the Theoretical Biology and Medical Modelling, Biomedical Engineering Online and Current Bioinformatics journals.
+I have also co-organized the International Work-Conference on Bioinformatics and Biomedical Engineering (IWBBIO) since 2013, being also Editor of the proceedings book and Guest Editor in the corresponding special issues in the Theoretical Biology and Medical Modelling, Biomedical Engineering Online and Current Bioinformatics journals.
