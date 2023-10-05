@@ -10,7 +10,7 @@ last_name: Ortuño
 superuser: true
 
 # Role/position
-role: Associate Professor of Computer Engineering
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://icar.ugr.es'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinformatics and computational genomics.
+bio: Bioinformatics and Artificial Intelligence Researcher
 
 interests:
   - Bioinformatics
