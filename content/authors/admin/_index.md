@@ -10,12 +10,12 @@ last_name: Ortuño
 superuser: true
 
 # Role/position
-role: Associate Professor of Computer Engineering
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Granada
-    url: ''
+  - name: Department of Computational Engineering, Automatics and Robotics (Uni>
+    url: 'https://icar.ugr.es/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include bioinformatics and computational genomics.
