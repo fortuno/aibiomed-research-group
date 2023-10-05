@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Computational Engineering, Automatics and Robotics (Uni>
+  - name: Department of Computational Engineering, Automatics and Robotics (Universidad de Granada)
     url: 'https://icar.ugr.es/'
 
 # Short bio (displayed in user profile at end of posts)

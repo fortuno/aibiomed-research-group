@@ -18,13 +18,14 @@ role: Full Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Computational Engineering, Automatics and Robotics (Uni>
+  - name: Department of Computer Engineering, Automatics and Robotics (University of Granada)
     url: 'https://icar.ugr.es/'
 
 interests:
-  - Artificial Intelligence
+  - Machine learning
+  - Deep learning
+  - Soft Computing
   - Bioinformatics
-  - Computational Medicine
 
 education:
 #  courses:

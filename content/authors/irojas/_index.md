@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Full Professor of Computer Engineering
+role: Full Professor and Department Director
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Granada
-    url: ''
+  - name: Department of Computational Engineering, Automatics and Robotics (Universidad de Granada)
+    url: 'https://icar.ugr.es/'
 
 interests:
   - Artificial Intelligence
