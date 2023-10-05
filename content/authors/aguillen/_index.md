@@ -22,9 +22,9 @@ organizations:
     url: 'https://icar.ugr.es/'
 
 interests:
-  - Artificial Intelligence
-  - Bioinformatics
-  - Computational Medicine
+  - Variable Selection
+  - Soft Computing
+  - Machine Learning
 
 education:
 #  courses:
@@ -49,9 +49,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:aguillen@ugr.es'
-  # - icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/aguillenATC
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.es/citations?user=Ti_7MKwAAAAJ&hl=en
