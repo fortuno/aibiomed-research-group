@@ -77,4 +77,11 @@ user_groups:
   - Principal Investigators
 ---
 
-Ignacio Rojas is a professor of computer engineering at University of Granada.
+Ignacio Rojas is currently Director of the Computer Engineering, Automatics and Robotics department (ICAR) at University of Granada. His field of research is focused on the study of complex multidimensional systems using intelligent systems
+systems, supported by high performance computing platforms, focused on solving real problems in various fields, such as bioinformatics, biomedicine and time series prediction, among others.
+
+As a result of the research developed, he has published more than 280 contributions reflected in the ISI Web of Knowledge database, of which more than 153 are classified as articles (more than 120 contributions are included in journals indexed in the JCR index). In addition to publication in indexed journals, he has participated with scientific contributions in more than 125 international congresses related to his field of research, has directed 27 doctoral theses and has organized several international congresses (a total of 27 international and 3 national congresses), workshops and special sessions. Throughout his research career, he has participated in 34 projects. He has been principal investigator in 9 projects of the National R+D+i Plan and four Excellence projects of the Department of Innovation, Science and Enterprise of the Andalusian Regional Government. He has also participated as a researcher in 4 European Union projects (the last two being FP7-ICT-2009-6-270436 FP7-ICT-2009-6-270434 FP7-ICT-2009-6-270434 and the international project PCI2023-146016-2). He has participated in a CENIT Project and in 7 innovative research contracts signed through the Research Results Transfer Office (OTRI) of UGR.
+
+Regarding the work of university management, he has been Deputy Director of Infrastructure, Library and Economic Management of the School of Computer Engineering and Telecommunications of the University of Granada (ETSIIT) from 2004 to 2008 as well as  Director of the Center for Research in Information Technology and Communications (CITIC-UGR) of the University of Granada from 2013 to 2021. 
+
+
